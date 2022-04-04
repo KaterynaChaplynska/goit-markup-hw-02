@@ -1,0 +1,44 @@
+body {
+  font-family: Roboto;
+  background-color: #ffffff;
+  color: #757575;
+}
+.title {
+  color: #ffffff;
+}
+.menu-link {
+  color: #212121;
+  font-family: Roboto;
+}
+
+.logo {
+  color: #2196f3;
+}
+.list {
+  list-style: none;
+}
+.menu-link:hover,
+.menu-link:focus {
+  color: #2196f3;
+}
+.section-title {
+  color: #212121;
+  font-family: "Roboto";
+  font-style: normal;
+  font-weight: 700;
+  font-size: 36px;
+  line-height: 42px;
+}
+
+.hero {
+  background-color: #2f303a;
+}
+
+.hero-title {
+  color: #ffffff;
+  font-family: "Roboto";
+  font-style: normal;
+  font-weight: 900;
+  font-size: 44px;
+  line-height: 60px;
+}
