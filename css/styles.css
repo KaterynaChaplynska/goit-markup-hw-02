@@ -10,13 +10,10 @@
 
 body {
   font-family: Roboto, sans-serif;
-  font-style: normal;
   background-color: var(--title-text-color);
   color: var(--primary-text-color);
   letter-spacing: 0.03em;
-  font-weight: 400;
   font-size: 14px;
-  line-height: 1.7;
 }
 
 .logo {
@@ -104,7 +101,7 @@ body {
 .section .profession {
   font-weight: 400;
   font-size: 16px;
-  line-height: 1.9px;
+  line-height: 1.9;
   text-align: center;
 }
 
